@@ -69,7 +69,8 @@ autoScale off
 viewLimits 0:1
 yLineOnOff on
 yLineMark 0.4448
-color 0,0,0
+itemRgb off
+
 
 track OtherStudies
 bigDataUrl OtherStudies.bb
