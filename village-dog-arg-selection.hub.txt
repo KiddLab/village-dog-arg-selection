@@ -3,3 +3,4 @@ shortLabel Track Data Hub for Kidd Lab ARG Selection Scan
 longLabel University of Michigan Medical School, Human Genetics, Kidd Lab Village Dog ARG Selection Scan
 genomesFile village-dog-arg-selection.genomes.txt
 email jmkidd@umich.edu
+descriptionUrl hubdescription.html 
