@@ -48,3 +48,33 @@ viewLimits 0:55
 yLineOnOff on
 yLineMark 11.5765
 color 0,0,0
+
+track VD40_CDR
+bigDataUrl VD40_CDR.bb
+shortLabel VD40 CDR
+longLabel VD40 Candidate Domestication Regions
+type bigBed 4
+visibility hide
+itemRgb off
+
+track Fst
+type bigWig
+bigDataUrl fst.bw
+graphType points
+alwaysZero on
+shortLabel Fst
+longLabel Fst
+visibility full
+autoScale off
+viewLimits 0:1
+yLineOnOff on
+yLineMark 0.4448
+color 0,0,255
+
+track OtherStudies
+bigDataUrl OtherStudies.bb
+shortLabel OtherStudies
+longLabel OtherStudies
+type bigBed 4
+visibility hide
+itemRgb off
