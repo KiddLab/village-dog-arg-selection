@@ -69,7 +69,7 @@ autoScale off
 viewLimits 0:1
 yLineOnOff on
 yLineMark 0.4448
-itemRgb off
+color 0,0,0
 
 
 track OtherStudies
