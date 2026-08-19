@@ -1,0 +1,35 @@
+track VDMW
+type bigWig
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+shortLabel Wolf VD
+longLabel Wolf and VD Diversity
+visibility full
+autoScale group
+
+    track Wolf41dvg_join
+    type bigWig
+    parent VDMW
+    bigDataUrl Wolf41.dvg.1000.bw
+    graphType points
+    alwaysZero on
+    shortLabel Wolf41
+    longLabel Wolf41 Divergence
+    visibility full
+    autoScale off
+    viewLimits 0:400000
+    color 255,0,0
+
+    track VD40dvg_join
+    type bigWig
+    parent VDMW
+    bigDataUrl VD40.dvg.1000.bw
+    graphType points
+    alwaysZero on
+    shortLabel VD40
+    longLabel VD40 Divergence
+    visibility full
+    autoScale off
+    viewLimits 0:400000
+    color 255,165,0
