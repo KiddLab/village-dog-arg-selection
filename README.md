@@ -13,6 +13,14 @@ https://raw.githubusercontent.com/KiddLab/village-dog-arg-selection/main/village
 
 Contact Kidd Lab, University of Michigan for more information
 
+
+The Wolf VD track shows the mean TMRCA for village dogs (in orange) and wolves (in red).
+
+The VD Geo track shows mean TMRCA for each geographically separate village dog group. The
+Europe Associated group is in orange, the Africa group in green, Central Asia in blue, and East
+and Southeast Asia is in pink.
+
+
 ## How to load the track hub
 
 Go to http://genome.ucsc.edu/
